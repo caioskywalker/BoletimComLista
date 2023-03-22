@@ -1,6 +1,17 @@
 package boletimEscolar;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author caiof
+ *  Ao invés de criar uma variável para cada nota inserida no console,
+ *  eu preferi trabalhar com uma lista e inserir as notas dentro de um único
+ *  objeto, no entanto ainda não tenho conhecimento para fazer
+ *  a média dessas 4 notas dentro do objeto. 
+ *  Nos próximos módulos voltarei a este projeto e farei uma versão
+ *  mais enxuta do código.
+ * 
+ *
+ */
 
 
 
